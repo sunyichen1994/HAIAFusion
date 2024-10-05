@@ -1,6 +1,20 @@
-# HAIAFusion
+# HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion (TIM 2024)
 
 
 ## Introduction
 
-My paper is currently undergoing major revisions, and I will open-source the code later. Please stay tuned.
+This is official implementation of HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion with Pytorch.
+
+## Citation
+
+If you find this repository useful, please consider citing the following paper:
+
+```
+@article{sun2024TIM,
+  title={HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion},
+  journal={IEEE Transactions on Instrumentation & Measurement},
+  }  
+```
+
+
+If you have any questions, feel free to contact me (sunyichen@emails.bjut.edu.cn)
