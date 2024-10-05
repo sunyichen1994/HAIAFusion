@@ -15,6 +15,13 @@ This is official implementation of HAIAFusion: A Hybrid Attention Illumination-A
  * tqdm 4.65.0
  * pandas 1.3.5
 
+## Framework
+![Image text](https://github.com/sunyichen1994/HAIAFusion/blob/main/The%20network%20architecture/Fig.2.jpg)
+
+
+## Structure of CAM PAM and COA
+![Image text](https://github.com/sunyichen1994/HAIAFusion/blob/main/The%20network%20architecture/Fig.3.jpg)
+
 
 ## Citation
 
