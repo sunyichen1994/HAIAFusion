@@ -3,8 +3,11 @@
 
 ## Introduction
 
-
 This is official implementation of ["HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion"](https://ieeexplore.ieee.org/document/10835199) with Pytorch.
+
+## Tips
+
+The Trained Model is [here](https://pan.baidu.com/s/1YAOytxlAR4uppOSeo4l2mg?pwd=HAIA).
 
 ## Recommended Environment
 
