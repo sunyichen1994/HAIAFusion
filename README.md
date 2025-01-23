@@ -32,11 +32,14 @@ The Trained Model is [here](https://pan.baidu.com/s/1YAOytxlAR4uppOSeo4l2mg?pwd=
 If you find this repository useful, please consider citing the following paper:
 
 ```
-@article{sun2024TIM,
-  title={HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion},
+@ article{sun2024TIM,
   author={Sun, Yichen and Dong, Mingli and Yu, Mingxin and Zhu, Lianqing},
-  journal={IEEE Transactions on Instrumentation & Measurement},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={HAIAFusion: A Hybrid Attention Illumination-Aware Framework for Infrared and Visible Image Fusion}, 
   year={2025},
+  volume={74},
+  number={},
+  pages={1-19},
   doi={10.1109/TIM.2025.3527534}
   }  
 ```
